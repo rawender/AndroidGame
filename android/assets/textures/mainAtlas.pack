@@ -1,0 +1,145 @@
+
+mainAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+explosion
+  rotate: false
+  xy: 1, 1273
+  size: 1024, 768
+  orig: 1024, 768
+  offset: 0, 0
+  index: -1
+bulletEnemy
+  rotate: false
+  xy: 1, 1143
+  size: 1024, 128
+  orig: 1024, 128
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 1, 1013
+  size: 1408, 128
+  orig: 1408, 128
+  offset: 0, 0
+  index: -1
+message_game_over
+  rotate: false
+  xy: 1, 903
+  size: 1124, 108
+  orig: 1124, 108
+  offset: 0, 0
+  index: -1
+enemy2
+  rotate: false
+  xy: 1027, 1587
+  size: 614, 454
+  orig: 614, 454
+  offset: 0, 0
+  index: -1
+enemy1
+  rotate: false
+  xy: 1, 483
+  size: 644, 418
+  orig: 644, 418
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 1, 275
+  size: 740, 206
+  orig: 740, 206
+  offset: 0, 0
+  index: -1
+btnNewGame
+  rotate: false
+  xy: 1, 67
+  size: 740, 206
+  orig: 740, 206
+  offset: 0, 0
+  index: -1
+bonus_explosion
+  rotate: false
+  xy: 1027, 1485
+  size: 900, 100
+  orig: 900, 100
+  offset: 0, 0
+  index: -1
+main_ship
+  rotate: false
+  xy: 647, 629
+  size: 316, 272
+  orig: 316, 272
+  offset: 0, 0
+  index: -1
+bulletMainShip
+  rotate: false
+  xy: 1, 1
+  size: 512, 64
+  orig: 512, 64
+  offset: 0, 0
+  index: -1
+enemy0
+  rotate: false
+  xy: 1027, 1255
+  size: 198, 228
+  orig: 198, 228
+  offset: 0, 0
+  index: -1
+pulsating_star
+  rotate: false
+  xy: 1643, 2017
+  size: 336, 24
+  orig: 336, 24
+  offset: 0, 0
+  index: -1
+Bonus0
+  rotate: false
+  xy: 1127, 911
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+Bonus1
+  rotate: false
+  xy: 647, 527
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+Bonus2
+  rotate: false
+  xy: 1227, 1383
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+current_HP
+  rotate: false
+  xy: 965, 885
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+current_shield
+  rotate: false
+  xy: 515, 49
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+HP
+  rotate: false
+  xy: 1027, 1237
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1643, 1999
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

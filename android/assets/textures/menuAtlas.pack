@@ -1,0 +1,33 @@
+
+menuAtlas.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+message_space_shooter
+  rotate: false
+  xy: 1, 209
+  size: 1648, 108
+  orig: 1648, 108
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 1, 1
+  size: 740, 206
+  orig: 740, 206
+  offset: 0, 0
+  index: -1
+btnStart
+  rotate: false
+  xy: 743, 1
+  size: 740, 206
+  orig: 740, 206
+  offset: 0, 0
+  index: -1
+pulsating_star
+  rotate: false
+  xy: 1651, 293
+  size: 336, 24
+  orig: 336, 24
+  offset: 0, 0
+  index: -1
